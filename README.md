@@ -93,6 +93,6 @@ Thanks for reading!
 
 — **Christina Akindino**  
 Junior Data Analyst | July 2025  
-[ GitHub link or LinkedIn]
+
 
 
