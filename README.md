@@ -80,7 +80,7 @@ Some products had great discounts but poor ratings. Others had glowing reviews a
 
 ## 📂 Files Included
 
-- `Amazon Case Study.xlsx` – cleaned dataset, all PivotTables, dashboard
+-  [Amazon_Case_Study.xlsx](https://github.com/user-attachments/files/21059480/Amazon_Case_Study.xlsx) – cleaned dataset, all PivotTables, dashboard
 - (Optional) `README.md` – you're reading it 😊
 
 ---
